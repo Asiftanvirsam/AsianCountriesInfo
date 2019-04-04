@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp"
+    android:background="@drawable/background_gradient"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bangladeshButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#1b6b24"
+        android:text="Bangladesh"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:drawableLeft="@drawable/bangladesh"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+    <Button
+        android:id="@+id/indiaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="India"
+        android:textColor="#11508f"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:drawableLeft="@drawable/india"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+    <Button
+        android:id="@+id/pakistanButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pakistan"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:drawableLeft="@drawable/pakistan"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+
+    <Button
+        android:id="@+id/afghanistanButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AfGhanistan"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:drawableLeft="@drawable/afghanistan"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+    <Button
+        android:id="@+id/bhutanButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bhutan"
+        android:textStyle="bold"
+        android:textColor="#ffd000"
+        android:textSize="25sp"
+        android:drawableLeft="@drawable/bhutan"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+    <Button
+        android:id="@+id/chinaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="China"
+        android:textStyle="bold"
+        android:textColor="#712627"
+        android:textSize="25sp"
+        android:drawableLeft="@drawable/china"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+    <Button
+        android:id="@+id/hongkongButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hong-Kong"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:drawableLeft="@drawable/hongkong"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+    <Button
+        android:id="@+id/iranButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Iran"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#0eb90b"
+        android:drawableLeft="@drawable/iran"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+    <Button
+        android:id="@+id/iraqButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Iraq"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:drawableLeft="@drawable/iraq"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+    <Button
+        android:id="@+id/japanButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Japan"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:drawableLeft="@drawable/japan"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+    <Button
+        android:id="@+id/malaysiaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Malaysia"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#28247c"
+        android:drawableLeft="@drawable/malaysia"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+        />
+
+        <Button
+            android:id="@+id/myanmarButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Myanmar"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#d4bb3c"
+            android:drawableLeft="@drawable/myanmar"
+            style="@style/Widget.AppCompat.Button.Colored"
+
+            />
+
+        <Button
+            android:id="@+id/nepalButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nepal"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#761313"
+            android:drawableLeft="@drawable/nepal"
+            style="@style/Widget.AppCompat.Button.Colored"
+
+            />
+        <Button
+            android:id="@+id/southkoreaButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="South-Korea"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:drawableLeft="@drawable/southkorea"
+            style="@style/Widget.AppCompat.Button.Colored"
+
+            />
+        <Button
+            android:id="@+id/srilankaButtonId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Srilanka"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#691010"
+            android:drawableLeft="@drawable/srilanka"
+            style="@style/Widget.AppCompat.Button.Colored"
+
+            />
+
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

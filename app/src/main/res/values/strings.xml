@@ -1,0 +1,307 @@
+<resources>
+    <string name="app_name">CountryProfile</string>
+
+
+    <string name="bangladesh">Bangladesh\n
+
+
+
+    President: Abdul Hamid (2013)\n\n
+
+    Prime Minister: Sheikh Hasina (2009)\n\n
+
+    Land area: 51,703 sq mi (133,911 sq km); total area: 55,598 sq mi (144,000 sq km)\n\n
+
+    Population (2014 est.): 166,280,712 (growth rate: 1.6%); birth rate: 21.61/1000; infant mortality rate: 45.67/1000; life expectancy: 70.65\n\n
+
+    Capital and largest city (2011 est.): Dhaka, 15.391 million\n\n
+
+    Other large cities: Chittagong, 5.239 million; Khulna, 1.781 million; Rajshahi 932,000\n\n
+
+    Monetary unit: Taka
+
+
+    </string>
+
+
+    <string name="india">India\n
+
+      OFFICIAL NAME: Republic of India, Bharat\n\n
+
+      FORM OF GOVERNMENT: Federal republic\n\n
+
+      CAPITAL: New Delhi\n\n
+
+      POPULATION: 1,236,344,631\n\n
+
+      OFFICIAL LANGUAGES: Hindi, English, 21 others\n\n
+
+      MONEY: Rupee\n\n
+
+      AREA: 1,269,345 square miles (3,287,590 square kilometers)\n\n
+
+      MAJOR MOUNTAIN RANGE: Himalaya\n\n
+
+      MAJOR RIVERS: Ganges, Yamuna, Indus, Brahmaputra\n\n
+
+
+    </string>
+    <string name="pakistan">Pakistan\n
+
+
+    President: Mamnoon Hussain (2013)\n\n
+
+    Prime minister: Nawaz Sharif (2013)\n\n
+
+    Land area: 300,664 sq mi (778,720 sq km); total area: 310,401 sq mi (803,940 sq km)1\n\n
+
+    Population (2014 est.): 196,174,380 (growth rate: 1.49%); birth rate: 23.19/1000; infant mortality rate: 57.48/1000; life expectancy: 67.05; density per sq mi: 215\n\n
+
+    Capital (2011 est.): Islamabad, 919,000\n\n
+
+    Largest cities: Karachi 13.876 million; Lahore 7.566 million; Faisalabad 3.038 million; Rawalpindi 2.164 million; Multan 1.775 million (2011)\n\n
+
+    Monetary unit: Pakistan rupee\n\n
+
+
+
+    </string>
+
+
+    <string name="afghanistan">Afghanistan\n
+
+
+
+    President: Ashraf Ghani (2014)\n\n
+
+    Chief Executive: Abdullah Abdullah (2014)\n\n
+
+    Total area: 250,000 sq mi (647,500 sq km)\n\n
+
+    Population (2014 est.): 31,822,848 (growth rate: 2.3%); birth rate: 38.8/1000; infant mortality rate: 117.23/1000; life expectancy: 50.49; density per sq mi: 123.7\n\n
+
+    Capital and largest city (2011 est.): Kabul, 3,097,300\n\n
+
+    Other large cities: Kandahar, 349,300; Mazar-i-Sharif, 246,900; Charikar, 202,600; Herat, 171,500\n\n
+
+    Monetary unit: Afghani\n\n
+
+
+
+    </string>
+
+    <string name="bhutan">Bhutan\n
+
+
+
+    Ruler: King Jigme Khesar Namgyal Wangchukin (2006)\n\n
+
+    Prime Minister: Tshering Tobgay (2013)\n\n
+
+    Total area: 18,147 sq mi (47,000 sq km)\n\n
+
+    Population (2014 est.): 733,643 (growth rate: 1.13%); birth rate: 18.12/1000; infant mortality rate: 37.89/1000; life expectancy: 68.98\n\n
+
+    Capital and largest city (2011 est.): Thimphu (official), 99,000\n\n
+
+    Monetary unit: Ngultrum\n\n
+
+    </string>
+
+    <string name="china">China\n\n
+
+
+    President: Xi Jinping (2013)\n\n
+
+    Prime Minister: Premier Li Keqiang (2013)\n\n
+
+    Land area: 3,600,927 sq mi (9,326,411 sq km); total area:3,705,407 sq mi (9,596,960 sq km)1\n\n
+
+    Population (2014 est.):1,355,692,576 (growth rate: 0.44%); birth rate: 12.17/1000; infant mortality rate: 14.79/1000; life expectancy: 75.15\n\n
+
+    Capital (2011 est.): Beijing, 15.594 million\n\n
+
+    Largest cities: Shanghai 20.208 million; Guangzhou 10.849 million; Shenzhen 10.63 million; Chongqing 9.977 million; Wuhan 9.158 million (2011)\n\n
+
+    Monetary unit: Yuan/Renminbi\n\n
+
+
+    </string>
+
+    <string name="hongkong">Hong-kong\n\n
+
+        Status: Special Administrative Region of China\n\n
+
+Chief Executive: Leung Chun-ying (2012)\n\n
+
+Land area: 382 sq mi (989 sq km); total area: 422 sq mi (1,092 sq km)\n\n
+
+Population (2014 est.): 7,112,688 (growth rate: 0.41%); birth rate: 9.38/1000; infant mortality rate: 2.73/1000; life expectancy: 82.78\n\n
+
+National Holiday: National Day, October 1\n\n
+
+
+    </string>
+    <string name="iran">Iran\n\n
+
+
+
+    Chief of State: Ayatollah Ali Khamenei (1989)\n\n
+
+    President: Hassan Rouhani (2013)\n\n
+
+    Land area: 631,659 sq mi (1,635,999 sq km); total area: 636,293 sq mi (1,648,000 sq km)\n\n
+
+    Population (2014 est.): 80,840,713 (growth rate: 1.22%); birth rate: 18.23/1000; infant mortality rate: 39/1000; life expectancy: 70.89\n\n
+
+    Capital and largest city (2011 est.): Tehran, 7.304 million\n\n
+
+    Other large cities: Mashhad 2.713 million; Esfahan 1.781 million; Karaj 1.635 million; Tabriz 1.509 million; Shiraz 1.321 million (2011)\n\n
+
+    Monetary unit: Rial\n\n
+
+    </string>
+
+
+    <string name="iraq">Iraq\n\n
+
+
+    President: Fouad Massoum (2014)\n\n
+
+    Prime Minister: Haider al-Abadi (2014)\n\n
+
+    Land area: 167,556 sq mi (433,970 sq km)\n\n
+
+    Population (2014 est.): 32,585,692 (growth rate: 2.23%); birth rate: 26.85/1000; infant mortality rate: 37.53/1000; life expectancy: 71.42\n\n
+
+    Capital and largest city (2011 est.): Baghdad, 6.036 million\n\n
+
+    Largest cities: Mosul 1.494 million; Erbil 1.039 million; Basra 942,000; As Sulaymaniyah 867,000; Najaf 779,000\n\n
+
+    Monetary unit: U.S. dollar\n\n
+
+    </string>
+    <string name="japan">Japan\n\n
+
+
+    Emperor: Akihito (1989)\n\n
+
+    Prime Minister: Shinzo Abe (2012)\n\n
+
+    Land area: 140,728 sq mi (364,485 sq km); total area: 145,913 sq mi (377,915 sq km)\n\n
+
+    Population (2014 est.): 127,103,388 (growth rate: -0.13%); birth rate: 8.07/1000; infant mortality rate: 2.13/1000; life expectancy: 84.46\n\n
+
+    Capital and largest city (2009 est.): Tokyo, 37.217 million\n\n
+
+    Other large cities: Osaka-Kobe 11.494 million; Nagoya 3.328 million; Fukuoka-Kitakyushu 2.868 million; Sapporo 2.742 million; Sendai 2.428 million (2011)\n\n
+
+    Monetary unit: Yen\n\n
+
+    </string>
+    <string name="malaysia">Malaysia\n\n
+
+
+    Head of State: Sultan Muhammad V (Since 2017)\n\n
+
+    Prime Minister: Dr. Mahathir bin Muhamad (Since 2018)\n\n
+
+    Land area: 126,853 sq mi (328,549 sq km); total area: 127,316 sq mi (329,750 sq km)\n\n
+
+    Population (2014 est.): 30,073,353 (growth rate: 1.47%); birth rate: 20.06/1000; infant mortality rate: 13.69/1000; life expectancy: 74.52\n\n
+
+    Capital and largest city (2011 est.): Kuala Lumpur, 1.556 million\n\n
+
+    Other large cities: Klang 1.19 million; Johor Bahru 1.045 million (2011)\n\n
+
+    Monetary unit: Ringgit\n\n
+
+    </string>
+    <string name="myanmar">Myanmar\n\n
+
+
+    President: Lt. Gen. Thein Sein (2011)\n\n
+
+    Vice President: Vice President Sai Mouk Kham (2011)\n\n
+
+    Land area: 253,954 sq mi (657,741 sq km); total area: 261,969 q mi (678,500 sq km)\n\n
+
+    Population (2014 est.): 55,746,253 (growth rate: 1.03%); birth rate: 19.11/1000; infant mortality rate: 47.74/1000; life expectancy: 65.24; density per sq km: 72\n\n
+
+    Capital and largest city (2011 est.): Rangoon, 4.457 million\n\n
+
+    Other large cities: Mandalay, 1.063 million; Nay Pyi Taw 1.06 million\n\n
+
+    Monetary unit: Kyat
+
+    </string>
+    <string name="nepal">Nepal\n\n
+
+
+    President: Bidhya Devi Bhandari (2015)\n\n
+
+    Prime Minister: Khadga Prasad Sharma Oli (2015)\n\n
+
+    Land area: 52,819 sq mi (136,801 sq km); total area: 54,363 sq mi (140,800 sq km)\n\n
+
+    Population (2014 est.): 30,986,975 (growth rate: 1.82 birth rate: 21.07/1000; infant mortality rate: 40.43/1000; life expectancy: 67.19\n\n
+
+    Capital and largest city (2011 est.): Kathmandu, 1.015 million\n\n
+
+    Other large cities: Biratnagar, 174,600; Lalitpur, 169,100\n\n
+
+    Monetary unit: Nepalese rupee\n\n
+
+    </string>
+    <string name="southkorea">SouthKorea\n
+
+
+    President: Moon Jae-in (2017)\n\n
+
+    Prime Minister: Lee Nak-yeon (2017)\n\n
+
+    Land area: 37,421 sq mi (96,920 sq km)\n\n
+
+    Population (2014 est.): 49,039,986 (growth rate: 0.16%); birth rate: 8.26/1000; infant mortality rate: 3.93/1000; life expectancy: 79.8\n\n
+
+    Capital and largest city (2011 est.): Seoul, 9.736 million\n\n
+
+    Other large cities: Busan (Pusan) 3.372 million; Incheon 2.622 million; Daegu (Taegu) 2.447 million; Daejon (Taejon) 1.538 million; Gwangju (Kwangju) 1.503 million (2011)\n\n
+
+    Monetary unit: won
+
+    </string>
+    <string name="srilanka">Srilanka\n\n
+
+
+    President: Maithripala Sirisena (2015)\n\n
+
+    Prime Minister: Ranil Wickremesinghe (2015)\n\n
+
+    Land area: 24,996 sq mi (64,740 sq km); total area: 25,332 sq mi (65,610 sq km)\n\n
+
+    Population (2014 est.): 21,866,445 (growth rate: 0.86%); birth rate: 16.24/1000; infant mortality rate: 9.47/1000; life expectancy: 76.35; density per sq mi: 836.6\n\n
+
+    Capital and largest city (2011 est.): Colombo, 693,000. Legislative and judicial capital: Sri Jayawardenepura Kotte, 126,000\n\n
+
+    Other large cities: Dehiwala-Mount Lavinia 245,974; Moratuwa, 207,755; Negombo, 127,754\n\n
+
+    Monetary unit: Sri Lanka rupee\n\n
+
+
+
+    </string>
+
+
+    <string name="about">
+        
+      Developed By: Md.Asif Tanvir
+            Email: asiftanvir511@gmail.com\n\n
+        
+        Produced By: Shahriya Rafi
+            Email: shahriyarafi@gmail.com
+        
+    </string>
+
+
+</resources>
